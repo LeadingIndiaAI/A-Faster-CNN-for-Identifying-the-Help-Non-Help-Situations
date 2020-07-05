@@ -1,2 +1,12 @@
 data
 Dataset-SAR
+notebooks/test2.txt
+notebooks/test.csv
+notebooks/pruning_models.ipynb
+notebooks/resnet18_1.ipynb
+data.zip
+models/resnet18_01_pruned
+models/resnet18_02
+models/resnet18_1
+modelsummary.pdf
+notebooks/modelsummary.txt
