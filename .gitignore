@@ -10,3 +10,4 @@ models/resnet18_02
 models/resnet18_1
 modelsummary.pdf
 notebooks/modelsummary.txt
+*.png
